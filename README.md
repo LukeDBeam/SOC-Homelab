@@ -19,3 +19,12 @@
 # Lab Framework
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fb2734e3-53ae-4048-ae07-f69b7c922ff3" />
 
+# Objectives
+  - Create a virtual Kali Linux security lab
+  - Create a virtual Windows Victim Machine
+  - Configure Windows machine as a monitored endpoint
+  - Configure Linux as a Penatration test analysis machine
+  - Verify communication between target and victim
+  - Create foundation for future security exercises
+#
+
