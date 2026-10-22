@@ -6,7 +6,7 @@
   The beginning of this focuses on configuring the virtual machines, while 
   establishing a foundation for security monitoring and incident response
   through security logging and network monitoring. 
-### Project Scope: 
+![Crosshairs Icon](screenshots/crosshairs-icon.png) ### Project Scope: 
   This repository documents the lab infrastructure and initial 
   configuration, then going on to malware simulations and incident investigations that 
   will be documented in a separate project.
