@@ -14,7 +14,7 @@
   Provides two key architectures for Security:
     1.  *Blue Hat* The Windows machine for the Security Operations Center (SOC) Where
     events are generated, logged, and monitored. This is also the endpoint for Kali.
-    2.  *Red Hat* The Kali machine which is our starting point for the pen test, which 
+    2.  *Red Hat* The Kali machine which is our starting point for a pen test, which 
     provides ethical hacking tools to practice on this isolated virtual environment.
 # Lab Framework
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fb2734e3-53ae-4048-ae07-f69b7c922ff3" />
