@@ -19,6 +19,8 @@
 # Lab Framework
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fb2734e3-53ae-4048-ae07-f69b7c922ff3" />
 
+** Diagram of Architecture layout of the SOC home lab. **
+
 # Objectives
   - Create a virtual Kali Linux security lab
   - Create a virtual Windows Victim Machine
@@ -27,13 +29,26 @@
   - Verify communication between target and victim
   - Create foundation for future security exercises
 # The Write up
-#Configuration Overview
 
-<img width="826" height="552" alt="image" src="https://github.com/user-attachments/assets/531df824-b1d6-4373-a886-5aecba34d972" />
+## Creating The virtual machines
+
+Orcale VirtualBox was used to host both the Windows 10 machine & the Kali machine. 
+I used .iso files to give to Oracle for each of the machines and manually set up each 
+with proper passwords and storage.
+
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/22aa569c-6ab9-4cd1-a40f-6ab76df8b597" />
+
+ **Image 1 - Windows and Kali virtual machines running with Oracle VirtualBox.**
+
+
 
 #Settings page of Kali Linux Virtual Box
+
 <img width="1376" height="704" alt="image" src="https://github.com/user-attachments/assets/e49dc07b-f8e2-41d6-a455-417810aa7300" />
+
+
 #Settings page of Windows 10 Virtual Box
+
 <img width="1376" height="711" alt="image" src="https://github.com/user-attachments/assets/6a4107eb-d386-4c00-a536-06347e180e4a" />
 
 
