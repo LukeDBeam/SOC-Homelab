@@ -1,4 +1,5 @@
 #Configuration Overview
+
 <img width="826" height="552" alt="image" src="https://github.com/user-attachments/assets/531df824-b1d6-4373-a886-5aecba34d972" />
 
 #Settings page of Kali Linux Virtual Box
