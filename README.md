@@ -42,15 +42,19 @@ with proper passwords and storage.
 
 
 
-#Settings page of Kali Linux Virtual Box
+## Settings page of Kali Linux Virtual Box
+
+
 
 <img width="1376" height="704" alt="image" src="https://github.com/user-attachments/assets/e49dc07b-f8e2-41d6-a455-417810aa7300" />
 
+**Image 2 - Kali Settings in Oracle**
 
 #Settings page of Windows 10 Virtual Box
 
 <img width="1376" height="711" alt="image" src="https://github.com/user-attachments/assets/6a4107eb-d386-4c00-a536-06347e180e4a" />
 
+**Image 3 - Windows 10 settings in Oracle**
 
 #Created Kali VM & Windows 10 VM with Oracle Manager
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/22aa569c-6ab9-4cd1-a40f-6ab76df8b597" />
@@ -61,6 +65,15 @@ with proper passwords and storage.
 
 #Scanned local net in Kali to find Windows IP (Shown as IPv4: 10.0.2.15)
 <img width="717" height="558" alt="image" src="https://github.com/user-attachments/assets/d98a7831-604c-4ee1-94ee-f90781dff4c1" />
+<img width="884" height="666" alt="image" src="https://github.com/user-attachments/assets/b6e35dfb-7797-464b-a008-4d29e4706cca" />
+
+#Windows Even viewer
+
+Route- Applcations and Service Logs- Mirosoft- Windows- sysmon
+<img width="949" height="838" alt="image" src="https://github.com/user-attachments/assets/1b84d069-8e17-4ed6-8d35-4a30317b4ba8" />
+
+
+
 
 
 
