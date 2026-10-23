@@ -50,14 +50,14 @@ with proper passwords and storage.
 
 **Image 2 - Kali Settings in Oracle. **
 
-#Settings page of Windows 10 Virtual Box
+# Settings page of Windows 10 Virtual Box
 
 <img width="1376" height="711" alt="image" src="https://github.com/user-attachments/assets/6a4107eb-d386-4c00-a536-06347e180e4a" />
 
 **Image 3 - Windows 10 settings in Oracle. **
 
 
-#Installing sysmon
+# Installing sysmon
 
 Using PowerShell I was able to install sysmon and configure the 
 
@@ -69,7 +69,7 @@ Using PowerShell I was able to install sysmon and configure the
 <img width="717" height="558" alt="image" src="https://github.com/user-attachments/assets/d98a7831-604c-4ee1-94ee-f90781dff4c1" />
 <img width="884" height="666" alt="image" src="https://github.com/user-attachments/assets/b6e35dfb-7797-464b-a008-4d29e4706cca" />
 
-#Windows Even viewer
+# Windows Even viewer
 
 Route- Applcations and Service Logs- Mirosoft- Windows- sysmon
 <img width="949" height="838" alt="image" src="https://github.com/user-attachments/assets/1b84d069-8e17-4ed6-8d35-4a30317b4ba8" />
