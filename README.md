@@ -24,7 +24,7 @@
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fb2734e3-53ae-4048-ae07-f69b7c922ff3" />
 
-** Diagram of Architecture layout of the SOC home lab. **
+**Diagram of Architecture layout of the SOC home lab.**
 
 # Objectives
   - Create a virtual Kali Linux security lab
@@ -60,7 +60,7 @@ reconnaissance, vulnerability assessments, and other security-related activities
 <img width="1376" height="704" alt="image" src="https://github.com/user-attachments/assets/e49dc07b-f8e2-41d6-a455-417810aa7300" />
 
 
-**Image 2 - Kali Settings in Oracle. **
+**Image 2 - Kali Settings in Oracle.**
 
 
 # Settings page of Windows 10 Virtual Box
@@ -73,7 +73,7 @@ Its CPU, RAM, storage, and network settings were configured based on the host ma
 <img width="1376" height="711" alt="image" src="https://github.com/user-attachments/assets/6a4107eb-d386-4c00-a536-06347e180e4a" />
 
 
-**Image 3 - Windows 10 settings in Oracle. **
+**Image 3 - Windows 10 settings in Oracle.**
 
 
 # Installing System Monitor
@@ -86,7 +86,7 @@ and then install the file into the Windows machine.
 <img width="1089" height="816" alt="image" src="https://github.com/user-attachments/assets/8620e687-53ec-4f98-86ed-867d9381851d" />
 
 
-**Image 4 - Used powershell to install sysmon for Event Viewer. **
+**Image 4 - Used powershell to install sysmon for Event Viewer.**
 
 #Scanned local net in Kali to find Windows IP (Shown as IPv4: 10.0.2.15)
 <img width="717" height="558" alt="image" src="https://github.com/user-attachments/assets/d98a7831-604c-4ee1-94ee-f90781dff4c1" />
