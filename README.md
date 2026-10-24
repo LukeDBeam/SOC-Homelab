@@ -45,7 +45,7 @@ with proper passwords and storage.
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/22aa569c-6ab9-4cd1-a40f-6ab76df8b597" />
 
 
- **Image 1 - Windows and Kali virtual machines running with Oracle VirtualBox.**
+ **Image 1: Windows and Kali virtual machines running with Oracle VirtualBox.**
 
 
 
@@ -60,7 +60,7 @@ reconnaissance, vulnerability assessments, and other security-related activities
 <img width="1376" height="704" alt="image" src="https://github.com/user-attachments/assets/e49dc07b-f8e2-41d6-a455-417810aa7300" />
 
 
-**Image 2 - Kali Settings in Oracle.**
+**Image 2: Kali Settings in Oracle.**
 
 
 # Settings page of Windows 10 Virtual Box
@@ -73,7 +73,7 @@ Its CPU, RAM, storage, and network settings were configured based on the host ma
 <img width="1376" height="711" alt="image" src="https://github.com/user-attachments/assets/6a4107eb-d386-4c00-a536-06347e180e4a" />
 
 
-**Image 3 - Windows 10 settings in Oracle.**
+**Image 3: Windows 10 settings in Oracle.**
 
 
 # Installing System Monitor
@@ -86,7 +86,7 @@ and then install the file into the Windows machine.
 <img width="1089" height="816" alt="image" src="https://github.com/user-attachments/assets/8620e687-53ec-4f98-86ed-867d9381851d" />
 
 
-**Image 4 - Used powershell to install sysmon for Event Viewer.**
+**Image 4: Used Powershell to install System Monitor for Event Viewer.**
 
 #Scanned local net in Kali to find Windows IP (Shown as IPv4: 10.0.2.15)
 <img width="717" height="558" alt="image" src="https://github.com/user-attachments/assets/d98a7831-604c-4ee1-94ee-f90781dff4c1" />
@@ -94,8 +94,10 @@ and then install the file into the Windows machine.
 
 # Windows Even viewer
 
-Route- Applcations and Service Logs- Mirosoft- Windows- sysmon
+Route- Applcations and Service Logs- Microsoft- Windows- sysmon
 <img width="949" height="838" alt="image" src="https://github.com/user-attachments/assets/1b84d069-8e17-4ed6-8d35-4a30317b4ba8" />
+
+**Image 5: 
 
 
 
