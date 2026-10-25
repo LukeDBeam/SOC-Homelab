@@ -84,6 +84,12 @@ and then install the file into the Windows machine. Sysmon logs deep security ev
 are considered low level activity in Event Viewer. It has the capabilities to log full command line inputs, 
 or cryptographic file hashes. It also will detects and monitors threat injections and file timestamps that 
 it deeps potential malware.
+After downloading System Monitor from Microsoft, I used:
+
+```powershell
+.\Sysmon64.exe -accepteula -i
+```
+This command accepts the user license agreement installs it into Event Viewer. 
 
 <img width="1089" height="816" alt="image" src="https://github.com/user-attachments/assets/8620e687-53ec-4f98-86ed-867d9381851d" />
 
