@@ -102,7 +102,6 @@ This command accepts the user license agreement installs it into Event Viewer.
 Event viewer is the main security hub for windows that monitors Applications, Security, and System Events.
 
 
-'''
 Event Viewer: System Monitor
 
     
