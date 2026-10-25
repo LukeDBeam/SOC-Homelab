@@ -118,14 +118,20 @@ Event Viewer: System Monitor
 **Image 5: Opened Event Viewer to show System Monitor.**
 
 After configuring both Machines I needed to confirm am active connection between both. 
-I used Nmap for this as well as an arp scan for the windows IP address
-
-
-#Scanned local net in Kali to find Windows IP (Shown as IPv4: 10.0.2.15)
-Kali Linux
+I didn't want to simply get the IP address from the windows machine then use that to test the ping.
+I wanted treat it as if the Kali user had no knowledge of the other machine on the network. So the first thing I
+did was do and arp-scan to find local IP addresses. This gave me the Windows IP (Shown as IPv4: 10.0.2.15).
+I used the command below:
           
     sudo arp-scan eth0 --localnet
+,,,
+
+
+After locating the address I used Nmap to gather information on it and the ping command to confirm a connection
+    
+    ping 10.0.2.15
     sudo nmap 10.0.2.15
+    
 '''
 
 <img width="717" height="558" alt="image" src="https://github.com/user-attachments/assets/d98a7831-604c-4ee1-94ee-f90781dff4c1" />
