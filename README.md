@@ -122,6 +122,9 @@ I used Nmap for this as well as an arp scan for the windows IP address
 
 
 #Scanned local net in Kali to find Windows IP (Shown as IPv4: 10.0.2.15)
+
+sudo arp-scan eth0 --localnet
+nmap
 <img width="717" height="558" alt="image" src="https://github.com/user-attachments/assets/d98a7831-604c-4ee1-94ee-f90781dff4c1" />
 <img width="884" height="666" alt="image" src="https://github.com/user-attachments/assets/b6e35dfb-7797-464b-a008-4d29e4706cca" />
 
