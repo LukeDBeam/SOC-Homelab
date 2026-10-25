@@ -30,22 +30,22 @@
   - Create a virtual Kali Linux security lab
   - Create a virtual Windows Victim Machine
   - Configure Windows machine as a monitored endpoint
-  - Configure Linux as a Penatration test analysis machine
+  - Configure Linux as a Penetration test analysis machine
   - Verify communication between target and victim
   - Create foundation for future security exercises
 # The Write up
 
 ## Creating The virtual machines
 
-Orcale VirtualBox was used to host both the Windows 10 machine & the Kali machine. 
-I used .iso files to give to Oracle for each of the machines and manually set up each 
+Oracle Virtual Box was used to host both the Windows 10 machine & the Kali machine. 
+I used ISO files to give to Oracle for each of the machines and manually set up each 
 with proper passwords and storage.
 
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/22aa569c-6ab9-4cd1-a40f-6ab76df8b597" />
 
 
- **Image 1: Windows and Kali virtual machines running with Oracle VirtualBox.**
+ **Image 1: Windows and Kali virtual machines running with Oracle Virtual Box.**
 
 
 
@@ -80,24 +80,30 @@ Its CPU, RAM, storage, and network settings were configured based on the host ma
 
 
 Using PowerShell I was able to locate the System Monitor (sysmon) file on my computer 
-and then install the file into the Windows machine.
-
+and then install the file into the Windows machine. Sysmon logs deep security events that 
+are considered low level activity in Event Viewer. It has the capabilities to log full command line inputs, 
+or cryptographic file hashes. It also will detects and monitors threat injections and file timestamps that 
+it deeps potential malware.
 
 <img width="1089" height="816" alt="image" src="https://github.com/user-attachments/assets/8620e687-53ec-4f98-86ed-867d9381851d" />
 
 
-**Image 4: Used Powershell to install System Monitor for Event Viewer.**
+
+**Image 4: Used PowerShell to install System Monitor for Event Viewer.**
 
 #Scanned local net in Kali to find Windows IP (Shown as IPv4: 10.0.2.15)
 <img width="717" height="558" alt="image" src="https://github.com/user-attachments/assets/d98a7831-604c-4ee1-94ee-f90781dff4c1" />
 <img width="884" height="666" alt="image" src="https://github.com/user-attachments/assets/b6e35dfb-7797-464b-a008-4d29e4706cca" />
 
-# Windows Even viewer
+# Windows Event viewer
+
+Event viewer is the main security hub for windows that monitors Applications, Security, and System Events.
+
 
 Route- Applcations and Service Logs- Microsoft- Windows- sysmon
 <img width="949" height="838" alt="image" src="https://github.com/user-attachments/assets/1b84d069-8e17-4ed6-8d35-4a30317b4ba8" />
 
-**Image 5: 
+**Image 5: Opened Event Viewer to show System Monitor.**
 
 
 
