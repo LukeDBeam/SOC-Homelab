@@ -137,11 +137,12 @@ After locating the address I used Nmap to gather information on it and the ping 
 <img width="717" height="558" alt="image" src="https://github.com/user-attachments/assets/d98a7831-604c-4ee1-94ee-f90781dff4c1" />
 <img width="884" height="666" alt="image" src="https://github.com/user-attachments/assets/b6e35dfb-7797-464b-a008-4d29e4706cca" />
 
-# Windows Event viewer
+# Conclusion
 
-Event viewer is the main security hub for windows that monitors Applications, Security, and System Events.
+This finalizes the configuring of the Kali and Windows machine. In this exercise I gained knowledge in 
+Virtual Machine set up, Local IP discovery, and Windows Event viewer and logging.
 
-That's all for configuration!
+That's all for now!
 
 
 
