@@ -104,10 +104,16 @@ Event viewer is the main security hub for windows that monitors Applications, Se
 
 '''Event logs
 Event Viewer
-└── Applications and Services Logs
+
+    
+    └── Applications and Services Logs
+    
     └── Microsoft
+    
         └── Windows
+        
             └── Sysmon
+            
                 └── Operational'''
 <img width="949" height="838" alt="image" src="https://github.com/user-attachments/assets/1b84d069-8e17-4ed6-8d35-4a30317b4ba8" />
 
