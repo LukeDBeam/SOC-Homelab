@@ -97,6 +97,22 @@ This command accepts the user license agreement installs it into Event Viewer.
 
 **Image 4: Used PowerShell to install System Monitor for Event Viewer.**
 
+# Windows Event viewer
+
+Event viewer is the main security hub for windows that monitors Applications, Security, and System Events.
+
+
+'''Event logs
+Event Viewer
+└── Applications and Services Logs
+    └── Microsoft
+        └── Windows
+            └── Sysmon
+                └── Operational'''
+<img width="949" height="838" alt="image" src="https://github.com/user-attachments/assets/1b84d069-8e17-4ed6-8d35-4a30317b4ba8" />
+
+**Image 5: Opened Event Viewer to show System Monitor.**
+
 #Scanned local net in Kali to find Windows IP (Shown as IPv4: 10.0.2.15)
 <img width="717" height="558" alt="image" src="https://github.com/user-attachments/assets/d98a7831-604c-4ee1-94ee-f90781dff4c1" />
 <img width="884" height="666" alt="image" src="https://github.com/user-attachments/assets/b6e35dfb-7797-464b-a008-4d29e4706cca" />
@@ -105,12 +121,7 @@ This command accepts the user license agreement installs it into Event Viewer.
 
 Event viewer is the main security hub for windows that monitors Applications, Security, and System Events.
 
-
-Route- Applcations and Service Logs- Microsoft- Windows- sysmon
-<img width="949" height="838" alt="image" src="https://github.com/user-attachments/assets/1b84d069-8e17-4ed6-8d35-4a30317b4ba8" />
-
-**Image 5: Opened Event Viewer to show System Monitor.**
-
+That's all for configuration!
 
 
 
