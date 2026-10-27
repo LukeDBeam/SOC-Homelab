@@ -137,14 +137,45 @@ After locating the address I used Nmap to gather information on it and the ping 
 <img width="717" height="558" alt="image" src="https://github.com/user-attachments/assets/d98a7831-604c-4ee1-94ee-f90781dff4c1" />
 <img width="884" height="666" alt="image" src="https://github.com/user-attachments/assets/b6e35dfb-7797-464b-a008-4d29e4706cca" />
 
-# Conclusion
+# What I Learned
+This lab gave me hands on experience that helped me devlop a better understanding of cybersecurity concepts 
+and fundamental practices that are difficult to grasp through a classroom.
 
-This finalizes the configuring of the Kali and Windows machine. In this exercise I gained knowledge in 
-Virtual Machine set up, Local IP discovery, and Windows Event viewer and logging.
+## Virtualization
+Learned how to configure multiple virtual evironments
 
-That's all for now!
+## Command-Line Interfaces
+Gained experience in PowerShell and how to install executables, and used the Kali terminal 
+to communicate between the systems
 
+## Virtual Networking
+Used Kali terminal to confirm connection between the terminal. Learned how
+virtualization affects connection of systems
 
+## Configuration
+Learned how to create a Cyber-Lab framework where I can execute future cybersecurity
+labs in an isolated controlled environment
 
+# Future Labs
+This homelab is meant to evolve overtime as I learn new tools and frameworks
+
+Future additions include:
+
+- Attack Simulation and Detection (Trojan)
+- Building a SIEM platform
+- Windows Event Log monitoring
+- Building a SOC with Splunk
+- Digital Forensice and Incident Response
+
+#Disclaimer
+
+This Project is created for educational and cybersecurity learning purposes.
+
+Any future security testing or attack simulations associated with this Lab will be performed against systems
+I own or have authorization to test.
+
+# Author
+Lucas Beames
+Cyber Security Scholar | Lifelong learner | SOC Analyst Learner
 
 
