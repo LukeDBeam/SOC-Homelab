@@ -176,6 +176,6 @@ I own or have authorization to test.
 
 # Author
 Lucas Beames
-Cyber Security Scholar | Lifelong learner | SOC Analyst Learner
+Cyber Security Scholar | Lifelong learner | SOC Analyst Novice
 
 
