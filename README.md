@@ -175,7 +175,7 @@ Any future security testing or attack simulations associated with this Lab will 
 I own or have authorization to test.
 
 # Author
-Lucas Beames
+## Lucas Beames
 
 Cyber Security Scholar | Lifelong learner | SOC Analyst Novice
 
